@@ -20,4 +20,4 @@ This is a basic Inventory management system, where you know what you have, where
   
 #### You'll also get a customer copy of  generated bill which will have all the information regarding your checkout for eg, date, time, day, your name, etc.
 
-#### There are two text file record of products in inventory and total sales till that point.
+#### There are two text file having record of products in inventory and total sales till that point.
